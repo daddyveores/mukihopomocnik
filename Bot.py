@@ -8,7 +8,6 @@ import time
 from threading import Thread
 import youtube_dl
 
-app = Flask('')
 client = discord.Client()
 
 def run():
