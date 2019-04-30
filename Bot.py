@@ -5,7 +5,6 @@ import asyncio
 import random
 import datetime
 import time
-from threading import Thread
 import youtube_dl
 
 client = discord.Client()
